@@ -2,4 +2,5 @@
 README.txt
 setup.py
 pythonstd\__init__.py
-pythonstd\pythonstd.py
+pythonstd\sd.py
+pythonstd\se.py
