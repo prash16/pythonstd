@@ -1,1 +1,2 @@
-from .pythonstd import standard_deviation
+from .sd import standard_deviation
+from .se import standard_error
